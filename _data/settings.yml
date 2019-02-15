@@ -11,21 +11,21 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Alvin Paulson
   title:
   license_number:
   about_markdown: |
 
-  brand:
+  brand: Paulson Residential
   brokerage:
   market:
-  address:
-  phone:
+  address: 13601 Preston Rd W830 Dallas, TX 75240
+  phone: 469-644-8558
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Alvin@PaulsonRes.com
+  url: http://alvinpaulson.com/
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -62,10 +62,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/PaulsonResidentialRealty/
+  linkedin_url: https://www.linkedin.com/in/alvin-paulson-8549a35
   youtube_url:
-  twitter_url:
+  twitter_url: https://twitter.com/PaulsonAlvin
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#A70E13'
+  theme_color: '#DCC188'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
